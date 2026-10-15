@@ -59,6 +59,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+- [XPManga](https://xpmanga.com/) - Android manga, manhwa and manhua reader that translates English, Korean, Chinese and Japanese pages into Arabic and draws the translation inside the page (on-device OCR; free).
 
 ### Translation software
 - [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
